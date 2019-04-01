@@ -1,2 +1,2 @@
-# TODO-List-exo-Vue.js
+# todolist
 Exercice Todo list
